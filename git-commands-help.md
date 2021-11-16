@@ -50,3 +50,9 @@ git fetch origin main
 
 git pull origin main
 
+# to rebase
+git pull --rebase main
+
+# interactive rebase
+
+git rebase -i HEAD~1

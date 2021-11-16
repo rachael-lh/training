@@ -1,3 +1,5 @@
 # This is to demonstarate rebase functionality
 
-# This is second commit from remote
+# This is a second commit from remote
+
+# This is a third commit from remote
